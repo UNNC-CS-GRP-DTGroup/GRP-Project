@@ -9,6 +9,8 @@ import javax.swing.SwingUtilities;
  * @author RUNFA LV,WENYU DU
  * 
  */
+ 
+// add a new comment from master branch which would result in a conflict
 
 public class GUIClient {
 	/**
