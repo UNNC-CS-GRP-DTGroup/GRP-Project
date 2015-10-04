@@ -9,8 +9,7 @@ import javax.swing.SwingUtilities;
  * @author RUNFA LV,WENYU DU
  * 
  */
-
-//Add a new comment from Eason/test branch
+ 
 
 public class GUIClient {
 	/**
