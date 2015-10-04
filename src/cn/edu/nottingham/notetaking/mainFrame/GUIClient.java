@@ -10,6 +10,8 @@ import javax.swing.SwingUtilities;
  * 
  */
 
+//Add a new comment from Eason/test branch
+
 public class GUIClient {
 	/**
 	 * the main method to open the app
