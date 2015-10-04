@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Fri May 29 00:37:44 CST 2015
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=E\:\\Users\\Angelo\\Documents\\\u767E\u5EA6\u4E91\u540C\u6B65\u76D8\\Laptop\\Eclipse\\Summer Project\\SP_5_29.jar
+manifest.mergeall=true
+manifest.mainclass=cn.edu.nottingham.notetaking.mainFrame.GUIClient
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
