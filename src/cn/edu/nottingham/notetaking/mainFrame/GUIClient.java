@@ -10,8 +10,6 @@ import javax.swing.SwingUtilities;
  * 
  */
 
-//just add a comment for testing
-
 public class GUIClient {
 	/**
 	 * the main method to open the app
