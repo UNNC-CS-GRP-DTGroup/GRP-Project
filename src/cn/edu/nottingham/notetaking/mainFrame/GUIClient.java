@@ -9,8 +9,6 @@ import javax.swing.SwingUtilities;
  * @author RUNFA LV,WENYU DU
  * 
  */
- 
- //again, add a comment for testing
 
 public class GUIClient {
 	/**
