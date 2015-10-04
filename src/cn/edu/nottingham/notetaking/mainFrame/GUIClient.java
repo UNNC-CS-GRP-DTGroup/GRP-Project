@@ -10,9 +10,6 @@ import javax.swing.SwingUtilities;
  * 
  */
  
-// add a new comment from master branch which would result in a conflict
-
-//Add a new comment from Eason/test branch
 
 public class GUIClient {
 	/**
