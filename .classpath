@@ -11,17 +11,15 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry kind="lib" path="E:/Users/Angelo/Documents/百度云同步盘/Laptop/External Packages/javacpp.jar"/>
-	<classpathentry kind="lib" path="E:/Users/Angelo/Documents/百度云同步盘/Laptop/External Packages/javacv.jar"/>
-	<classpathentry kind="lib" path="E:/Users/Angelo/Documents/百度云同步盘/Laptop/External Packages/opencv.jar"/>
 	<classpathentry kind="lib" path="E:/Users/Angelo/Documents/百度云同步盘/Laptop/External Packages/opencv-300.jar"/>
-	<classpathentry kind="lib" path="E:/Users/Angelo/Documents/百度云同步盘/Laptop/External Packages/opencv-windows-x86_64.jar"/>
-	<classpathentry kind="lib" path="E:/Users/Angelo/Documents/百度云同步盘/Laptop/External Packages/swt.jar"/>
 	<classpathentry kind="lib" path="/Users/Erin/Desktop/Java/GRP/Summer Project/External Packages/pdfbox-app-1.8.9.jar"/>
 	<classpathentry kind="lib" path="/Users/Erin/Desktop/Java/GRP/Summer Project/External Packages/jacob.jar"/>
 	<classpathentry kind="lib" path="/Users/Erin/Desktop/Java/GRP/Summer Project/External Packages/DJNativeSwing-SWT.jar"/>
 	<classpathentry kind="lib" path="/Users/Erin/Desktop/Java/GRP/Summer Project/External Packages/DJNativeSwing.jar"/>
 	<classpathentry kind="lib" path="/Users/Erin/Desktop/Java/GRP/Summer Project/External Packages/javacpp-1.0.jar"/>
 	<classpathentry kind="lib" path="/Users/Erin/Desktop/Java/GRP/Summer Project/External Packages/javacv-0.11.jar"/>
+	<classpathentry kind="lib" path="/Users/Erin/Desktop/Java/GRP/Summer Project/External Packages/opencv-windows-x86_64.jar"/>
+	<classpathentry kind="lib" path="/Users/Erin/Desktop/Java/GRP/Summer Project/External Packages/opencv.jar"/>
+	<classpathentry kind="lib" path="/Users/Erin/Desktop/Java/GRP/Summer Project/External Packages/swt.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
